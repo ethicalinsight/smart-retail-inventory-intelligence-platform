@@ -5,7 +5,7 @@ An end-to-end retail analytics, machine learning, and inventory optimization pla
 ---
 
 ## 🚀 Live Application
-👉 **Access the Live Dashboard Here:** [Smart Retail & Inventory Intelligence Platform](https://YOUR-STREAMLIT-APP-URL.streamlit.app)(https://smart-retail-inventory-intelligence-platform-6wwyrj5myawmhslsm.streamlit.app/)
+👉 **Access the Live Dashboard Here:** [Smart Retail & Inventory Intelligence Platform](https://smart-retail-inventory-intelligence-platform-6wwyrj5myawmhslsm.streamlit.app/)
 
 ---
 
