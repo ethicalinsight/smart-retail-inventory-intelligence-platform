@@ -4,6 +4,11 @@ An end-to-end retail analytics, machine learning, and inventory optimization pla
 
 ---
 
+## 🚀 Live Application
+👉 **Access the Live Dashboard Here:** [Smart Retail & Inventory Intelligence Platform](https://YOUR-STREAMLIT-APP-URL.streamlit.app)(https://smart-retail-inventory-intelligence-platform-6wwyrj5myawmhslsm.streamlit.app/)
+
+---
+
 ## 📓 Google Colab Development & Notebooks
 The data engineering, exploratory data analysis, and machine learning pipelines were developed, trained, and executed across four dedicated Google Colab notebooks:
 
